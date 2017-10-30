@@ -1,0 +1,30 @@
+{
+  "name": "zero",
+  "version": "1.0.0",
+  "description": "An Algorithms and Data Structures library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint **/**.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agzeri/zero.git"
+  },
+  "keywords": [
+    "Algorithms",
+    "Data Structures",
+    "Testing",
+    "CS50",
+    "JavaScript",
+    "ESNEXT"
+  ],
+  "author": "Yair <@agzeri>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agzeri/zero/issues"
+  },
+  "homepage": "https://github.com/agzeri/zero#readme",
+  "devDependencies": {
+    "eslint": "^4.10.0"
+  }
+}
