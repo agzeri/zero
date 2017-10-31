@@ -1,4 +1,4 @@
-### Zero. CS50 in JavaScript.
+## Zero. CS50 in JavaScript.
 
 An Algorithms and Data Structures library.
 

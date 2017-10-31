@@ -4,6 +4,7 @@
   "description": "An Algorithms and Data Structures library.",
   "main": "index.js",
   "scripts": {
+    "precommit": "npm t",
     "test": "eslint **/**.js"
   },
   "repository": {
@@ -25,6 +26,7 @@
   },
   "homepage": "https://github.com/agzeri/zero#readme",
   "devDependencies": {
-    "eslint": "^4.10.0"
+    "eslint": "^4.10.0",
+    "husky": "^0.14.3"
   }
 }
