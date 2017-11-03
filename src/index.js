@@ -1,3 +1,5 @@
-function library () {
-  return 'Zero. CS50 in JavaScript.';
+function library (name) {
+  return 'Zero. By ' + name + '.';
 }
+
+module.exports = library;
