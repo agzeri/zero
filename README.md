@@ -22,6 +22,7 @@
 ## Table of Contents
 
 - [About this library](#about-this-library)
+- [Where to start](#where-to-start)
 - [What is included](#what-is-included)
 - [Documentation](#documentation)
 - [Creator](#creator)
@@ -29,6 +30,6 @@
 
 ## About this library
 
-<small><strong>This project is personal, I want to get better in Computer Science, I want to really understand the details, what’s happening behind the implementation. I don’t need your help. Don’t get me wrong. I want to push myself to learn, this is the only way I have found.</strong></small>
+###### This project is personal, I want to get better in Computer Science, I want to really understand the details, what’s happening behind the implementation. I don’t need your help. Don’t get me wrong. I want to push myself to learn, this is the only way I have found.
 
 You’ll find a full implementation of most popular Algorithms and Data Structures in current famous programming language, JavaScript. With detailed explanations of how they are implemented. The goal for this project is to explain how algorithms work and create a useful library, with a lot of examples, documentation and using Unit Testing.
