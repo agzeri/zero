@@ -18,7 +18,7 @@
     <a href='https://onetype.org'>Blog</a>
   </p>
   <p class='center'>
-    [![Zero](https://img.shields.io/travis/agzeri/zero/0.1.0/SettingUpTheEnvironment.svg)]()
+    <a href='#'><img src='https://img.shields.io/travis/agzeri/zero/0.1.0/SettingUpTheEnvironment.svg' alt='' /></a>
   </p>
 </p>
 
@@ -31,7 +31,7 @@
 - [Creator](#creator)
 - [Copyright](#copyright)
 
-## About this library
+## About this project
 
 ###### This project is personal, I want to get better in Computer Science, I want to really understand the details, what’s happening behind the implementation. I don’t need your help. Don’t get me wrong. I want to push myself to learn, this is the only way I have found.
 
