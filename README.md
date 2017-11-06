@@ -6,7 +6,7 @@
   <h3 align='center'>Zero</h3>
 
   <p align='center'>
-    Clean, full tested and the most complete library for Algorithms and Data Structure.
+    Clean, full tested and the most complete resource for Algorithms and Data Structure.
     <br />
     <a href='#'><strong>Explore Zero docs »</strong></a>
     <br>
@@ -15,13 +15,16 @@
     ·
     <a href='#'>Data Structures</a>
     ·
-    <a href='#'>Blog</a>
+    <a href='https://onetype.org'>Blog</a>
+  </p>
+  <p class='center'>
+    [![Zero](https://img.shields.io/travis/agzeri/zero/0.1.0/SettingUpTheEnvironment.svg)]()
   </p>
 </p>
 
 ## Table of Contents
 
-- [About this library](#about-this-library)
+- [About this project](#about-this-project)
 - [Where to start](#where-to-start)
 - [What is included](#what-is-included)
 - [Documentation](#documentation)
